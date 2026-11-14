@@ -1,0 +1,5 @@
+https://builtin.com/machine-learning/fastest-sorting-algorithm
+https://www.tutorialspoint.com/data_structures_algorithms/searching_algorithms.htm
+https://medium.com/@vyankateshpareek733/sorting-algorithms-11a9057d688f
+https://nerdbook.wordpress.com/2018/03/27/siralama-ve-arama-algoritmalar/
+https://www.w3schools.com/dsa/dsa_intro.php

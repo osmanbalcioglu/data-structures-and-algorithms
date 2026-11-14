@@ -1,0 +1,15 @@
+https://www.geeksforgeeks.org/dsa/introduction-to-tree-data-structure/
+
+https://www.programiz.com/dsa/trees
+
+https://yazilimdnyasi.wordpress.com/2020/02/14/graf-ile-agac-arasindaki-farklar/
+
+https://builtin.com/software-engineering-perspectives/tree-traversal
+
+https://www.geeksforgeeks.org/engineering-mathematics/euler-hamiltonian-paths/
+
+https://www.w3schools.com/dsa/dsa_theory_trees.php
+
+https://www.wscubetech.com/resources/dsa/tree-data-structure
+
+https://www.geeksforgeeks.org/dsa/tree-data-structure/
